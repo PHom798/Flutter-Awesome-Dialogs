@@ -56,10 +56,12 @@ This project serves as a **comprehensive resource** for developers exploring adv
 <div align="left">
   <table>
     <tr>
-      <td><img src="screenshots/image1.jpg" alt="Dialog Example 1" width="250"/></td>
+      <td><img src="screenshots/image3.jpg" alt="Dialog Example 1" width="250"/></td>
       <td><img src="screenshots/image2.jpg" alt="Dialog Example 2" width="250"/></td>
-      <td><img src="screenshots/image3.jpg" alt="Dialog Example 3" width="250"/></td>
+      <td><img src="screenshots/image.jpg" alt="Dialog Example 3" width="250"/></td>
       <td><img src="screenshots/image4.jpg" alt="Dialog Example 4" width="250"/></td>
+      <td><img src="screenshots/imagefive.jpg" alt="Dialog Example 4" width="250"/></td>
+
     </tr>
   </table>
 </div>
