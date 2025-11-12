@@ -76,17 +76,6 @@ This project serves as a **comprehensive resource** for developers exploring adv
 
 ---
 
-## 🎥 Demo Video
-
-Watch the **Awesome Dialogs** in action:
-<div align="center">
-<video src="https://github.com/user-attachments/assets/your-demo-video-id" controls width="100%" ></video> 
-</div>
-
-
-
----
-
 ## 🏗️ Tech Stack
 
 | Technology                          | Description                                          |
